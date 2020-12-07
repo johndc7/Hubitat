@@ -1,4 +1,13 @@
 {
   "author": "John Callahan (@johndc7)",
-  "payPalUrl": "https://paypal.me/johndc7"
+  "payPalUrl": "https://paypal.me/johndc7",
+  "packages": [
+    {
+      "id": "13beeabb-c276-4aa8-ba35-7c722e1bd940",
+      "name": "Presence Sensor",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/johndc7/Hubitat/main/presence-sensor.json",
+      "description": "Wifi Presence Detection"
+    }
+  ]
 }
