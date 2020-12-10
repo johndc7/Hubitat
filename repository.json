@@ -5,7 +5,8 @@
     {
       "id": "13beeabb-c276-4aa8-ba35-7c722e1bd940",
       "name": "Presence Sensor",
-      "category": "Integrations",
+      "tags": [ "Presence & Location", "Safety & Security" ],
+      "category": "Security",
       "location": "https://raw.githubusercontent.com/johndc7/Hubitat/main/presence-sensor.json",
       "description": "Wifi Presence Detection"
     }
