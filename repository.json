@@ -7,8 +7,8 @@
       "name": "Presence Sensor",
       "tags": [ "Presence & Location", "Safety & Security" ],
       "category": "Security",
-      "location": "https://raw.githubusercontent.com/johndc7/Hubitat/main/presence-sensor.json",
-      "description": "Wifi Presence Detection"
+      "location": "https://raw.githubusercontent.com/johndc7/Presence-Sensor/master/package.json",
+      "description": "(Android ONLY) Hubitat Integration for Presence Sensor app"
     }
   ]
 }
